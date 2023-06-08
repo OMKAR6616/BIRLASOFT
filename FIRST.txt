@@ -7,6 +7,8 @@ git remote add origin <url> --- to connect remote repo and local repo.
 
 git station ----- to check the status of the file
 
-git commit - m "message" to save the files in the local copy(git)
+gdgbfvcxvx
+kjhgxbvcx
 
-git push origin master - to push the commited changes to the remote copy.
+
+iugyfdgvc
